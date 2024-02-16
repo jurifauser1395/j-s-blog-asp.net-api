@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\j-s-blog-asp.net-api.props" />
+</Project>
